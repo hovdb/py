@@ -3,7 +3,7 @@
 """
 Created on Tue Nov  8 15:08:01 2022
 
-@author: bjorn hovd
+@author: b hovd
 """
 
 
