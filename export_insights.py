@@ -44,5 +44,5 @@ for key in jsonResponse:
         myTable.align = "l"
         myTable.reversesort = True
 print(myTable)
-with open('InsightsExport.txt', 'w') as w:
+with open(host + '_InsightsExport.txt', 'w') as w:
     w.write(str(myTable))
